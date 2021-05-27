@@ -1,7 +1,7 @@
 # DIA
 
-The Datasets can be downloaded from here - https://www.imdb.com/interfaces/ . There are 7 TSV files on this page to download. Please see link for all dataset description
-
+The Datasets can be downloaded from here - https://www.imdb.com/interfaces/ . There are 7 TSV files on this page to download. Please see link for all dataset description https://github.com/ayo-nci/DIA/blob/main/IMDB%20Dataset%20description
+ 
 Clone the repository from github using https://github.com/ayo-nci/DIA.git or download the zip format of the repository from the same URL
 
 Running Steps
