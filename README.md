@@ -1,4 +1,4 @@
-# DIA
+# Data Intensive Architecture
 
 The Datasets can be downloaded from here - https://www.imdb.com/interfaces/ . There are 7 TSV files on this page to download. Please see link for all dataset description https://github.com/ayo-nci/DIA/blob/main/IMDB%20Dataset%20description
  
